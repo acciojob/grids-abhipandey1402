@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.root-container{
+    height: 100vh;
+    background-color: pink;
+    border: 5px solid limegreen;
+}
+
+.row-custom > div{
+    border: 1px dotted black;
+}
